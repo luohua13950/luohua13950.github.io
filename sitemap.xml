@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.happyhong.cn/friends/index.html</loc>
+    
+    <lastmod>2020-06-21T12:32:59.390Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.happyhong.cn/2020/01/14/docker-an-zhuang-mysql/</loc>
     
     <lastmod>2020-06-21T08:55:15.353Z</lastmod>
@@ -82,13 +89,6 @@
     <loc>http://www.happyhong.cn/contact/index.html</loc>
     
     <lastmod>2020-06-21T06:24:46.565Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.happyhong.cn/friends/index.html</loc>
-    
-    <lastmod>2020-06-21T06:24:12.656Z</lastmod>
     
   </url>
   
