@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.happyhong.cn/"/>
-  <updated>2020-06-21T06:57:35.990Z</updated>
+  <updated>2020-06-21T07:20:11.306Z</updated>
   <id>http://www.happyhong.cn/</id>
   
   <author>
@@ -15,6 +15,120 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>10分钟快速安装Redis</title>
+    <link href="http://www.happyhong.cn/2020/06/01/10-fen-zhong-kuai-su-an-zhuang-redis/"/>
+    <id>http://www.happyhong.cn/2020/06/01/10-fen-zhong-kuai-su-an-zhuang-redis/</id>
+    <published>2020-06-01T07:19:06.000Z</published>
+    <updated>2020-06-21T07:20:11.306Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;获取redis资源&quot;&gt;&lt;a href=&quot;#获取redis资源&quot; class=&quot;headerlink&quot; title=&quot;获取redis资源&quot;&gt;&lt;/a&gt;获取redis资源&lt;/h3&gt;&lt;pre class=&quot;line-numbers
+        
+      
+    
+    </summary>
+    
+      <category term="Redis" scheme="http://www.happyhong.cn/categories/Redis/"/>
+    
+    
+      <category term="redis" scheme="http://www.happyhong.cn/tags/redis/"/>
+    
+      <category term="linux" scheme="http://www.happyhong.cn/tags/linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>基于centos的Django+gunicorn+ngixn应用部署</title>
+    <link href="http://www.happyhong.cn/2020/05/11/ji-yu-centos-de-django-gunicorn-ngixn-ying-yong-bu-shu/"/>
+    <id>http://www.happyhong.cn/2020/05/11/ji-yu-centos-de-django-gunicorn-ngixn-ying-yong-bu-shu/</id>
+    <published>2020-05-11T07:16:49.000Z</published>
+    <updated>2020-06-21T07:19:54.492Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;准备工作—-所需软件安装&quot;&gt;&lt;a href=&quot;#准备工作—-所需软件安装&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="Django" scheme="http://www.happyhong.cn/categories/Django/"/>
+    
+    
+      <category term="linux" scheme="http://www.happyhong.cn/tags/linux/"/>
+    
+      <category term="django" scheme="http://www.happyhong.cn/tags/django/"/>
+    
+      <category term="gunicorn" scheme="http://www.happyhong.cn/tags/gunicorn/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>深入浅出图神经网络：GNN原理解析（一）</title>
+    <link href="http://www.happyhong.cn/2020/04/11/shen-ru-qian-chu-tu-shen-jing-wang-luo-gnn-yuan-li-jie-xi-yi/"/>
+    <id>http://www.happyhong.cn/2020/04/11/shen-ru-qian-chu-tu-shen-jing-wang-luo-gnn-yuan-li-jie-xi-yi/</id>
+    <published>2020-04-11T07:12:40.000Z</published>
+    <updated>2020-06-21T07:16:13.314Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="神经网络" scheme="http://www.happyhong.cn/categories/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/"/>
+    
+    
+      <category term="神经网络" scheme="http://www.happyhong.cn/tags/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/"/>
+    
+      <category term="GNN" scheme="http://www.happyhong.cn/tags/GNN/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>爬虫学习(2):贴吧之骑马与砍杀2，愿它长寿？</title>
+    <link href="http://www.happyhong.cn/2020/03/29/pa-chong-xue-xi-2-tie-ba-zhi-qi-ma-yu-kan-sha-2-yuan-ta-chang-shou/"/>
+    <id>http://www.happyhong.cn/2020/03/29/pa-chong-xue-xi-2-tie-ba-zhi-qi-ma-yu-kan-sha-2-yuan-ta-chang-shou/</id>
+    <published>2020-03-29T07:10:56.000Z</published>
+    <updated>2020-06-21T07:16:07.937Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;爷爷，你的骑砍2发售了！！！骑马与砍杀2:霸主
+        
+      
+    
+    </summary>
+    
+      <category term="爬虫" scheme="http://www.happyhong.cn/categories/%E7%88%AC%E8%99%AB/"/>
+    
+    
+      <category term="爬虫" scheme="http://www.happyhong.cn/tags/%E7%88%AC%E8%99%AB/"/>
+    
+      <category term="python" scheme="http://www.happyhong.cn/tags/python/"/>
+    
+  </entry>
   
   <entry>
     <title>爬虫学习(1)------从数据看奥斯卡陪跑健将到底是谁？学院派评委都热衷于哪类电影？</title>
