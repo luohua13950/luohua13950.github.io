@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.happyhong.cn/"/>
-  <updated>2020-06-21T07:20:11.306Z</updated>
+  <updated>2020-06-21T08:50:20.057Z</updated>
   <id>http://www.happyhong.cn/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>MongoDB快速学习</title>
+    <link href="http://www.happyhong.cn/2020/06/01/mongodb-kuai-su-xue-xi/"/>
+    <id>http://www.happyhong.cn/2020/06/01/mongodb-kuai-su-xue-xi/</id>
+    <published>2020-06-01T08:49:34.000Z</published>
+    <updated>2020-06-21T08:50:20.057Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="Mongdb" scheme="http://www.happyhong.cn/categories/Mongdb/"/>
+    
+    
+      <category term="mongodb" scheme="http://www.happyhong.cn/tags/mongodb/"/>
+    
+  </entry>
   
   <entry>
     <title>10分钟快速安装Redis</title>
@@ -41,6 +67,36 @@
       <category term="redis" scheme="http://www.happyhong.cn/tags/redis/"/>
     
       <category term="linux" scheme="http://www.happyhong.cn/tags/linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Centos下python3和virtualenv的安装</title>
+    <link href="http://www.happyhong.cn/2020/05/25/centos-xia-python3-he-virtualenv-de-an-zhuang/"/>
+    <id>http://www.happyhong.cn/2020/05/25/centos-xia-python3-he-virtualenv-de-an-zhuang/</id>
+    <published>2020-05-25T08:47:54.000Z</published>
+    <updated>2020-06-21T08:49:07.933Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="Python" scheme="http://www.happyhong.cn/categories/Python/"/>
+    
+    
+      <category term="linux" scheme="http://www.happyhong.cn/tags/linux/"/>
+    
+      <category term="python" scheme="http://www.happyhong.cn/tags/python/"/>
+    
+      <category term="virtualenv" scheme="http://www.happyhong.cn/tags/virtualenv/"/>
     
   </entry>
   
@@ -124,9 +180,9 @@
       <category term="爬虫" scheme="http://www.happyhong.cn/categories/%E7%88%AC%E8%99%AB/"/>
     
     
-      <category term="爬虫" scheme="http://www.happyhong.cn/tags/%E7%88%AC%E8%99%AB/"/>
-    
       <category term="python" scheme="http://www.happyhong.cn/tags/python/"/>
+    
+      <category term="爬虫" scheme="http://www.happyhong.cn/tags/%E7%88%AC%E8%99%AB/"/>
     
   </entry>
   
@@ -152,9 +208,91 @@
       <category term="爬虫" scheme="http://www.happyhong.cn/categories/%E7%88%AC%E8%99%AB/"/>
     
     
+      <category term="python" scheme="http://www.happyhong.cn/tags/python/"/>
+    
       <category term="爬虫" scheme="http://www.happyhong.cn/tags/%E7%88%AC%E8%99%AB/"/>
     
-      <category term="python" scheme="http://www.happyhong.cn/tags/python/"/>
+  </entry>
+  
+  <entry>
+    <title>docker安装mysql</title>
+    <link href="http://www.happyhong.cn/2020/01/14/docker-an-zhuang-mysql/"/>
+    <id>http://www.happyhong.cn/2020/01/14/docker-an-zhuang-mysql/</id>
+    <published>2020-01-14T14:54:11.000Z</published>
+    <updated>2020-06-21T08:55:15.353Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;最近在部署django，不想在手动安装一遍mysql，便尝试使用docker，总结了安装的心得，这些前提都是在安装了docker后：&lt;/p&gt;
+&lt;h3 id=&quot;1-查看mysql镜像；&quot;&gt;&lt;a href=&quot;#1-查看mysql镜像；&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="Mysql" scheme="http://www.happyhong.cn/categories/Mysql/"/>
+    
+    
+      <category term="docker" scheme="http://www.happyhong.cn/tags/docker/"/>
+    
+      <category term="mysql" scheme="http://www.happyhong.cn/tags/mysql/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Celery的使用（2）---从配置开始</title>
+    <link href="http://www.happyhong.cn/2019/12/21/celery-de-shi-yong-2-cong-pei-zhi-kai-shi/"/>
+    <id>http://www.happyhong.cn/2019/12/21/celery-de-shi-yong-2-cong-pei-zhi-kai-shi/</id>
+    <published>2019-12-21T11:51:50.000Z</published>
+    <updated>2020-06-21T08:52:28.210Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;上文中我们将配置直接设置在了tasks.py中：&lt;/p&gt;
+&lt;pre class=&quot;line-numbers
+        
+      
+    
+    </summary>
+    
+      <category term="Celery" scheme="http://www.happyhong.cn/categories/Celery/"/>
+    
+    
+      <category term="celery" scheme="http://www.happyhong.cn/tags/celery/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Celery的使用（1）---简单配置与初次运行</title>
+    <link href="http://www.happyhong.cn/2019/11/21/celery-de-shi-yong-1-jian-dan-pei-zhi-yu-chu-ci-yun-xing/"/>
+    <id>http://www.happyhong.cn/2019/11/21/celery-de-shi-yong-1-jian-dan-pei-zhi-yu-chu-ci-yun-xing/</id>
+    <published>2019-11-21T08:50:50.000Z</published>
+    <updated>2020-06-21T08:51:23.320Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;celery是一个基于python开发的简单、灵活且可靠的分布式任务队列框架， 是一个分布式队列的管理工具, 可以用 Celery
+        
+      
+    
+    </summary>
+    
+      <category term="Celery" scheme="http://www.happyhong.cn/categories/Celery/"/>
+    
+    
+      <category term="celery" scheme="http://www.happyhong.cn/tags/celery/"/>
     
   </entry>
   

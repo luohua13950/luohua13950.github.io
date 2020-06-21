@@ -2,6 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.happyhong.cn/2020/01/14/docker-an-zhuang-mysql/</loc>
+    
+    <lastmod>2020-06-21T08:55:15.353Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.happyhong.cn/2019/12/21/celery-de-shi-yong-2-cong-pei-zhi-kai-shi/</loc>
+    
+    <lastmod>2020-06-21T08:52:28.210Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.happyhong.cn/2019/11/21/celery-de-shi-yong-1-jian-dan-pei-zhi-yu-chu-ci-yun-xing/</loc>
+    
+    <lastmod>2020-06-21T08:51:23.320Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.happyhong.cn/2020/06/01/mongodb-kuai-su-xue-xi/</loc>
+    
+    <lastmod>2020-06-21T08:50:20.057Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.happyhong.cn/2020/05/25/centos-xia-python3-he-virtualenv-de-an-zhuang/</loc>
+    
+    <lastmod>2020-06-21T08:49:07.933Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.happyhong.cn/2020/06/01/10-fen-zhong-kuai-su-an-zhuang-redis/</loc>
     
     <lastmod>2020-06-21T07:20:11.306Z</lastmod>

@@ -1,5 +1,10 @@
+http://www.happyhong.cn/2020/06/01/mongodb-kuai-su-xue-xi/
 http://www.happyhong.cn/2020/06/01/10-fen-zhong-kuai-su-an-zhuang-redis/
+http://www.happyhong.cn/2020/05/25/centos-xia-python3-he-virtualenv-de-an-zhuang/
 http://www.happyhong.cn/2020/05/11/ji-yu-centos-de-django-gunicorn-ngixn-ying-yong-bu-shu/
 http://www.happyhong.cn/2020/04/11/shen-ru-qian-chu-tu-shen-jing-wang-luo-gnn-yuan-li-jie-xi-yi/
 http://www.happyhong.cn/2020/03/29/pa-chong-xue-xi-2-tie-ba-zhi-qi-ma-yu-kan-sha-2-yuan-ta-chang-shou/
 http://www.happyhong.cn/2020/03/21/pa-chong-xue-xi-1-cong-shu-ju-kan-ao-si-qia-pei-pao-jian-jiang-dao-di-shi-shui-xue-yuan-pai-ping-wei-du-re-zhong-yu-na-lei-dian-ying/
+http://www.happyhong.cn/2020/01/14/docker-an-zhuang-mysql/
+http://www.happyhong.cn/2019/12/21/celery-de-shi-yong-2-cong-pei-zhi-kai-shi/
+http://www.happyhong.cn/2019/11/21/celery-de-shi-yong-1-jian-dan-pei-zhi-yu-chu-ci-yun-xing/
